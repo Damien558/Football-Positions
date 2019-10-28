@@ -9,7 +9,12 @@ This repository will be about the change in music from 1990 to 2019 and how it h
 * rap
 * reggae
 * contempory R&B
-## 2000's 
+## 2. 2000's 
 * Southern Hip-Hop
 * Alternative Rock
-* 
+* Heavy Metal
+## 3. 2010's
+* Hip Hop
+* Rap 
+* Rock
+* Pop
