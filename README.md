@@ -18,3 +18,8 @@ This repository will be about the change in music from 1990 to 2019 and how it h
 * Rap 
 * Rock
 * Pop
+## 4. Today's 
+* Hip Hop
+* Rap
+* Jazz
+* Gospel Music
