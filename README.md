@@ -1,4 +1,4 @@
-# About 
+# **About** 
 This repository will be about the change in music from 1990 to 2019 and how it has changed over time.
 > **“Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything.”** ― *Plato*
 
@@ -26,4 +26,4 @@ This repository will be about the change in music from 1990 to 2019 and how it h
 
 
 # Ideas for further development #
-I plan to add sections that describe what society was like during these different times and why that made the music popular.
+I plan to add sections that describe what society was like during these different times and why that made the music popular. [History-of-Music](http://www.thepeoplehistory.com/music.html)
